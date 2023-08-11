@@ -26,7 +26,7 @@
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/b6e45ca4-9824-416c-9c62-783103415fec)
 
 # LECCION 3 
--Usa Material Design
+- Usa Material Design
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/be595f14-c5c5-4c57-b484-c61867c81134)
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/aa1ec02d-001c-45ed-a3e6-45f0a142c15a)
 
@@ -44,7 +44,7 @@
 
 # LECCION 4
 - Crea una lista de mensajes
-- ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/875511fb-37c3-4117-b0fc-efabad0eefa6)
+  ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/875511fb-37c3-4117-b0fc-efabad0eefa6)
 
 
 - Agrega animaciones cuando se expandan los mensajes
